@@ -1,5 +1,6 @@
 ## Programming Assignment 2
 ## Caching the inverse of a matrix
+## Nguyen's copy
 
 ## Creates a special "matrix" object that can cache its inverse
 
